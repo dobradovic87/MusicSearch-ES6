@@ -1,6 +1,6 @@
-# Music-Search-Final
+# Music-Search-ES6
 
-Final v2 of School Project
+School Project with ES6 Standard
 
 Front End basic Course Project with Last FM and YouTube API
 
